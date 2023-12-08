@@ -1,0 +1,86 @@
+body{
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.botao{
+    padding: 10px 8px;
+    width: 100px;
+    background-color: #993399;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    display: inline-block;
+    font-size:18px;
+}
+
+a{
+    text-decoration: none;
+    color:#000000;
+}
+
+.botao:hover{
+    background-color:#a715a7 ;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    margin: 7.5px;
+    text-align:left;
+    font-size:20px;
+    font-family: 'Times New Roman';
+}
+
+.linguagens2022{
+    width: 750px;
+    height: 500px;
+    display: inline-block;
+}
+.videolinguagens{
+    width: 750px;
+    display: inline-block;
+}
+
+.videomatematica{
+    width: 750px;
+    display: inline-block;
+}
+
+.videocn{
+    width: 750px;
+    display: inline-block;
+}
+.imgcn{
+    width: 750px;
+    display: inline-block;
+}
+
+.ch2021{
+    width: 750px;
+    height: 500px;
+    display: inline-block;
+}
+.videoch{
+    width: 750px;
+    display: inline-block;
+}
+
+.texto2021{
+    align-items: center;
+    text-align: left;
+}
+.videoti{
+    width: 750px;
+    display: inline-block;
+}
+.ti2023{
+    width: 750px;
+    height: 500px;
+    display: inline-block; 
+}

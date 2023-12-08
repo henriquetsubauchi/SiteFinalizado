@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f0f0f0;
+}
+
+.navbar {
+    background-color: #993399;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+section {
+    min-height: 100vh;
+    padding-top: 75px;
+    margin: 15px;
+    font-family: 'monospace';
+}
+
+h1{
+    padding-top: 75px;
+    font-family: 'Courier New', Courier, monospace;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.videoimgautomacao ,p {
+    width: 750px;
+}
+.textopagtec{
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    margin: 7.5px;
+}
+.imgmetaverso{
+    width: 750px;
+}
